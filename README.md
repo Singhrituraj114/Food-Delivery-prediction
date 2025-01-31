@@ -4,5 +4,5 @@ Food Delivery Time Prediction by using Random Forest, XGBoost, AdaBoost and Deci
 1. Data Reading
 2. Data Cleaning
 3. Feature Generation and Explarotary Data Analysis
-4. Model Traning
+4. Model Traning and gathering information
 5. Testing and Results
